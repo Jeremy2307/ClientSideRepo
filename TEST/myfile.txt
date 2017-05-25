@@ -1,1 +1,2 @@
-ths a text file
+this a text file
+this is a new line
